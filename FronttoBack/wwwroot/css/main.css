@@ -1,0 +1,247 @@
+@import url("https://fonts.googleapis.com/css2?family=Hahmlet:wght@300&display=swap");
+.header {
+  background-color: white;
+  height: 100px; }
+
+.nav {
+  background-color: white;
+  height: 100px; }
+
+.as {
+  margin-left: 350px; }
+
+.dropdown {
+  margin-left: 600px; }
+
+section {
+  height: 450px;
+  background-color: white;
+  display: flex;
+  flex-direction: column; }
+
+h1, h4, h3 {
+  display: flex;
+  justify-content: center;
+  font-family: 'Hahmlet', serif; }
+
+h3 {
+  margin-left: 250px;
+  margin-right: 250px; }
+
+img {
+  width: 352px;
+  height: 453px; }
+
+.imgg {
+  margin-left: 200px;
+  margin-top: 100px;
+  display: flex;
+  flex-direction: row; }
+
+.saa {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 200px; }
+
+.imgg2 {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: row; }
+
+.sas {
+  display: flex;
+  flex-direction: column; }
+
+h5 {
+  margin-left: 275px; }
+
+.mill {
+  margin-top: 20px;
+  background-color: whitesmoke;
+  height: 2000px; }
+
+.erop {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row; }
+
+.dair {
+  margin-top: 10px;
+  border-style: solid;
+  border-width: 5px;
+  border-style: none;
+  box-sizing: border-box;
+  border-radius: 50%;
+  width: 400px;
+  height: 400px; }
+
+.dia {
+  display: flex;
+  flex-direction: column; }
+
+.selec {
+  margin-top: 2000px;
+  height: 1500px;
+  background-color: whitesmoke; }
+
+.assa {
+  box-sizing: border-box;
+  border-radius: 60%;
+  border-style: solid;
+  border-width: 5px; }
+
+.sect {
+  height: 200px;
+  background-color: whitesmoke; }
+
+.aaq {
+  display: flex;
+  flex-direction: row; }
+
+.footer {
+  height: 700px;
+  background-color: whitesmoke; }
+
+.truck, .dolar, .perset, .cal {
+  display: flex;
+  flex-direction: row; }
+
+.truck1, .dolar1, .persent1, .cal1 {
+  display: flex;
+  flex-direction: column; }
+
+.icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around; }
+
+.input {
+  border-style: double; }
+
+.end {
+  margin-top: 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around; }
+
+.secat {
+  background-image: url(https://d19m59y37dris4.cloudfront.net/varkala/1-2-1/img/photo/home-2-plain.jpg);
+  background-color: whitesmoke;
+  height: 800px; }
+
+.pblog {
+  margin-left: 80px;
+  margin-top: 150px;
+  margin-right: 80px; }
+
+.secca {
+  margin-top: 150px; }
+
+.card {
+  margin-top: 50px; }
+
+.fff {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around; }
+
+.ppp {
+  display: flex;
+  flex-direction: row;
+  margin-left: 50px;
+  justify-content: space-between; }
+
+.asec {
+  height: 800px; }
+
+.aimg {
+  width: 150px;
+  height: 150px; }
+
+.sectaa {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 600px;
+  background-image: url(https://demo.phlox.pro/corporate-free/wp-content/uploads/sites/134/2019/11/maarten-deckers-0-frPETzEVs-unsplash-1024x1024.jpg); }
+
+.h11 {
+  margin-top: 150px; }
+
+.enter {
+  margin-top: 150px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 400px; }
+
+.adre {
+  margin-left: 150px; }
+
+.calc {
+  margin-right: 120px; }
+
+.elect {
+  margin-right: 150px;
+  margin-left: 150px; }
+
+.maps {
+  height: 800px; }
+
+.map-container-2 {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0; }
+
+.map-container-2 iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute; }
+
+.sassa {
+  height: 800px;
+  margin-bottom: 10px; }
+
+.maps {
+  display: flex;
+  flex-direction: row; }
+
+.con {
+  margin-left: 300px;
+  size: 250px; }
+
+.secclas {
+  height: 1800px; }
+
+.sa7 {
+  margin-left: 100px; }
+
+.sard, .sard1, .sard2 {
+  display: flex;
+  flex-direction: row;
+  height: 1200px;
+  justify-content: space-around;
+  margin-bottom: 50px; }
+
+.sol:hover {
+  font-size: 150%; }
+
+.sag:hover {
+  font-size: 150%; }
+
+.xett1, .xett2 {
+  display: flex;
+  flex-direction: row; }
+
+.summer {
+  height: 800px; }
+
+.sekil {
+  margin-left: 40px;
+  margin-right: 20px; }
